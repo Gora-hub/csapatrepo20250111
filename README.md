@@ -4,3 +4,4 @@ csopirepo
 # Zolit is felvettem a csoportba, hogy lássa ő is a gyakorlást 
 # látom, köszönöm :)
 # csak most sikerült klónoznom az előbb említett hiba miatt.
+# konfliktusveszély fog kialakulni ha lassan nem kezdem el a grízgombócot főzni
