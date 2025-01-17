@@ -5,5 +5,9 @@ csopirepo
 # látom, köszönöm :)
 # Gora mód1 képfeltöltés mainbe és új branch létrehozás
 # csak most sikerült klónoznom az előbb említett hiba miatt.
+<<<<<<< Updated upstream
 # Jó hétvégét!
  
+=======
+# konfliktusveszély fog kialakulni ha nem kezdem el a grízgombócot főzni
+>>>>>>> Stashed changes
